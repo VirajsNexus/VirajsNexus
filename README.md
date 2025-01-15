@@ -31,8 +31,6 @@
                 <strong>Short Summary:</strong>
                 <p>I am an aspiring software engineer currently pursuing a degree in Computer Science and Engineering. With a strong foundation in technology and a passion for innovation, I am committed to mastering programming languages, algorithms, and software development principles. My goal is to develop impactful solutions that solve real-world problems and contribute to the advancement of technology. As a dedicated learner, I strive to expand my technical expertise while embracing opportunities to collaborate on projects that enhance my skills and knowledge.</p>
 
-​
-
 <p>Beyond academics, I am enthusiastic about leveraging my abilities to create meaningful change. I have a keen interest in developing efficient systems and applications that align with user needs and industry trends. My approach combines creativity with analytical problem-solving to deliver high-quality results. Whether advising organizations on strategic campaigns or contributing to collaborative initiatives, I aim to build a career rooted in innovation, teamwork, and a relentless pursuit of excellence in the ever-evolving tech landscape..</p>
             </td>
         </tr>
