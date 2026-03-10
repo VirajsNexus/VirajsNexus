@@ -22,6 +22,5 @@ Always Learning!<br>Currently turning bugs into commits!!!!
 ![](https://github-contributor-stats.vercel.app/api?username=VirajsNexus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VirajsNexus&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://github.com/VirajsNexus/VirajsNexus/blob/output/github-snake.svg)
