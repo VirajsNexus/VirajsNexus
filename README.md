@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Jamdhade</h1>
-<h3 align="center">Computer Engineering Student </h3>
+<h3 align="center">Computer Science and Engineering Student </h3>
 
 <p align="center">
   <a href="https://virajjamdhade.me">🌐 Portfolio</a> •
