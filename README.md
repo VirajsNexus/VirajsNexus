@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science and Engineering Student </h3>
 
 <p align="center">
-  <a href="https://virajjamdhade.me">🌐 Portfolio</a> •
+  <a href="https://virajjamdhade.me">🌐 Portfolio</a> <br><br>•
   <a href="https://linkedin.com/in/viraj-jamdhade9420">💼 LinkedIn</a> •
   <a href="https://x.com/Viraj_2609">🐦 X</a> •
   <a href="mailto:virajjamdhade6@gmail.com">📧 virajjamdhade6@gmail.com</a>
